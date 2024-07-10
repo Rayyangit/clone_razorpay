@@ -4,7 +4,7 @@ Razorpay Clone
 
 This project is a clone of the Razorpay website, built using Tailwind CSS, HTML, and a JSON file for data management. The primary goal of this project is to replicate the user interface and user experience of Razorpay, showcasing the power of Tailwind CSS in creating responsive and visually appealing web applications.
 
-Features
+Features:
 
 Responsive Design: The clone is fully responsive, ensuring a seamless experience across all devices.
 
@@ -14,7 +14,7 @@ HTML and JSON: HTML is used for the structure, and a JSON file is used for dynam
 
 Modern UI: Replicates the clean and modern user interface of Razorpay.
 
-Tech Stack
+Tech Stack:
 
 Tailwind CSS: For utility-first CSS styling.
 
